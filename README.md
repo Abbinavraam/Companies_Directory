@@ -36,7 +36,7 @@ A modern, responsive web application for browsing and filtering a directory of c
 │   ├── Pagination.tsx     # Pagination navigation
 │   └── icons/
 │       └── Icons.tsx      # SVG icon components
-├── data/
+├── public/data/
 │   └── companies.json     # Companies data source
 └── services/
     └── companyService.ts  # Service for fetching company data
