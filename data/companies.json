@@ -1,0 +1,203 @@
+
+[
+  {
+    "id": "1",
+    "name": "Innovate Inc.",
+    "logoUrl": "https://picsum.photos/seed/Innovate/200",
+    "industry": "Technology",
+    "location": "San Francisco",
+    "description": "Pioneering the future of AI and machine learning solutions."
+  },
+  {
+    "id": "2",
+    "name": "Healthful Foods",
+    "logoUrl": "https://picsum.photos/seed/Healthful/200",
+    "industry": "Food & Beverage",
+    "location": "New York",
+    "description": "Providing organic and locally-sourced food products to communities."
+  },
+  {
+    "id": "3",
+    "name": "GreenScape Solutions",
+    "logoUrl": "https://picsum.photos/seed/GreenScape/200",
+    "industry": "Environmental",
+    "location": "Austin",
+    "description": "Dedicated to sustainable energy and eco-friendly urban development."
+  },
+  {
+    "id": "4",
+    "name": "QuantumLeap",
+    "logoUrl": "https://picsum.photos/seed/Quantum/200",
+    "industry": "Technology",
+    "location": "Seattle",
+    "description": "Developing next-generation quantum computing hardware."
+  },
+  {
+    "id": "5",
+    "name": "FashionForward",
+    "logoUrl": "https://picsum.photos/seed/Fashion/200",
+    "industry": "Retail",
+    "location": "Los Angeles",
+    "description": "An e-commerce platform for cutting-edge fashion trends."
+  },
+  {
+    "id": "6",
+    "name": "BioGenetics Lab",
+    "logoUrl": "https://picsum.photos/seed/BioGen/200",
+    "industry": "Healthcare",
+    "location": "Boston",
+    "description": "Researching genetic therapies for rare diseases."
+  },
+  {
+    "id": "7",
+    "name": "AeroDynamics",
+    "logoUrl": "https://picsum.photos/seed/Aero/200",
+    "industry": "Aerospace",
+    "location": "Houston",
+    "description": "Building the future of commercial space travel and exploration."
+  },
+  {
+    "id": "8",
+    "name": "Gourmet Gatherings",
+    "logoUrl": "https://picsum.photos/seed/Gourmet/200",
+    "industry": "Food & Beverage",
+    "location": "Chicago",
+    "description": "Premium catering services for corporate and private events."
+  },
+  {
+    "id": "9",
+    "name": "CodeCrafters",
+    "logoUrl": "https://picsum.photos/seed/Code/200",
+    "industry": "Technology",
+    "location": "New York",
+    "description": "Custom software development for enterprise clients."
+  },
+  {
+    "id": "10",
+    "name": "MediCare Plus",
+    "logoUrl": "https://picsum.photos/seed/MediCare/200",
+    "industry": "Healthcare",
+    "location": "Miami",
+    "description": "A network of state-of-the-art clinics and hospitals."
+  },
+  {
+    "id": "11",
+    "name": "UrbanStyle",
+    "logoUrl": "https://picsum.photos/seed/Urban/200",
+    "industry": "Retail",
+    "location": "San Francisco",
+    "description": "Streetwear and modern apparel for the urban dweller."
+  },
+  {
+    "id": "12",
+    "name": "Renewable Future",
+    "logoUrl": "https://picsum.photos/seed/Renewable/200",
+    "industry": "Environmental",
+    "location": "Denver",
+    "description": "Innovating in wind and solar energy technologies."
+  },
+  {
+    "id": "13",
+    "name": "Starlight Studios",
+    "logoUrl": "https://picsum.photos/seed/Starlight/200",
+    "industry": "Entertainment",
+    "location": "Los Angeles",
+    "description": "Producing award-winning films and television series."
+  },
+  {
+    "id": "14",
+    "name": "Global Logistics",
+    "logoUrl": "https://picsum.photos/seed/Global/200",
+    "industry": "Transportation",
+    "location": "Chicago",
+    "description": "Worldwide shipping and supply chain management solutions."
+  },
+  {
+    "id": "15",
+    "name": "Fintech Innovations",
+    "logoUrl": "https://picsum.photos/seed/Fintech/200",
+    "industry": "Finance",
+    "location": "New York",
+    "description": "Disrupting traditional banking with mobile-first financial tools."
+  },
+  {
+    "id": "16",
+    "name": "NextGen Gaming",
+    "logoUrl": "https://picsum.photos/seed/Gaming/200",
+    "industry": "Entertainment",
+    "location": "Austin",
+    "description": "Creating immersive and interactive gaming experiences."
+  },
+  {
+    "id": "17",
+    "name": "SecureNet",
+    "logoUrl": "https://picsum.photos/seed/Secure/200",
+    "industry": "Technology",
+    "location": "Boston",
+    "description": "Cybersecurity solutions for the modern digital landscape."
+  },
+  {
+    "id": "18",
+    "name": "Artisan Eats",
+    "logoUrl": "https://picsum.photos/seed/Artisan/200",
+    "industry": "Food & Beverage",
+    "location": "San Francisco",
+    "description": "Handcrafted snacks and beverages with unique flavor profiles."
+  },
+  {
+    "id": "19",
+    "name": "Precision Robotics",
+    "logoUrl": "https://picsum.photos/seed/Robotics/200",
+    "industry": "Manufacturing",
+    "location": "Detroit",
+    "description": "Automated solutions for advanced manufacturing processes."
+  },
+  {
+    "id": "20",
+    "name": "WellBeing Corp",
+    "logoUrl": "https://picsum.photos/seed/WellBeing/200",
+    "industry": "Healthcare",
+    "location": "Seattle",
+    "description": "Corporate wellness programs and mental health support."
+  },
+  {
+    "id": "21",
+    "name": "DataSphere",
+    "logoUrl": "https://picsum.photos/seed/Data/200",
+    "industry": "Technology",
+    "location": "Austin",
+    "description": "Big data analytics and cloud storage solutions."
+  },
+  {
+    "id": "22",
+    "name": "Evergreen Apparel",
+    "logoUrl": "https://picsum.photos/seed/Evergreen/200",
+    "industry": "Retail",
+    "location": "Denver",
+    "description": "Sustainable and ethically-made outdoor clothing."
+  },
+  {
+    "id": "23",
+    "name": "PlanetFirst",
+    "logoUrl": "https://picsum.photos/seed/Planet/200",
+    "industry": "Environmental",
+    "location": "San Francisco",
+    "description": "Non-profit organization focused on conservation and advocacy."
+  },
+  {
+    "id": "24",
+    "name": "Creative Minds Agency",
+    "logoUrl": "https://picsum.photos/seed/Creative/200",
+    "industry": "Marketing",
+    "location": "New York",
+    "description": "A full-service digital marketing and branding agency."
+  },
+  {
+    "id": "25",
+    "name": "Momentum Motors",
+    "logoUrl": "https://picsum.photos/seed/Momentum/200",
+    "industry": "Automotive",
+    "location": "Detroit",
+    "description": "Designing and manufacturing the next generation of electric vehicles."
+  }
+]
