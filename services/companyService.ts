@@ -1,5 +1,5 @@
 import type { Company } from '../types';
-import companiesData from '../data/companies.json';
+import companiesData from '../public/data/companies.json';
 
 export const fetchCompanies = (): Promise<Company[]> => {
   return new Promise((resolve, reject) => {
