@@ -53,7 +53,7 @@ A modern, responsive web application for browsing and filtering a directory of c
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Abbinavraam/Companies_Directory
 cd companies-directory
 ```
 
